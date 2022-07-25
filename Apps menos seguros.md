@@ -1,6 +1,6 @@
 Em construção..
 
-# Aplicativos-menos-seguros
+# Aplicativos menos seguros
 
 
 [Link do texto original](https://tdn.totvs.com/x/2O_GKQ)
@@ -18,7 +18,7 @@ O objetivo deste guia é demonstrar a realização das configurações para ativ
 ### Configuração da conta gmail na Google
 ***
 
-Para que o usuário consiga testar o envio de e-mails do aplicativo o qual necessita realizar o login, é necessário primeiro "ativar a verificação em duas etapas" na conta que será usada para realizar tal teste e, posteriormente, "criar e usar senhas de app" a qual substituirá a senha original do aplicativo escolhido.
+Para testar o envio de e-mails do aplicativo o qual necessita realizar o login, é necessário primeiro "ativar a verificação em duas etapas" na conta que será usada para realizar tal teste e, posteriormente, "criar e usar senhas de app" a qual substituirá a senha original do aplicativo escolhido.
 
 ### Ativar a verificação em duas etapas
 ***
@@ -30,6 +30,6 @@ A [verificação em duas etapas](https://tdn.totvs.com/download/attachments/6967
 ### Criar e usar senha de aplicativo
 ***
 
-Já a senha de aplicativo, é um recurso que gera [senhas aleatórias](https://tdn.totvs.com/download/attachments/696709080/senhaappgerada.png?version=1&modificationDate=1656971351497&api=v2) contendo 16 caracteres e que serão exibidas apenas uma única vez em cada geração. Estas senhas tem como finalidade "substituir" a senha original da conta Google apenas no contexto de um único aplicativo, por exemplo, no caso do TOTVS Fluig Plataforma.
+Já a senha de aplicativo, é um recurso que gera [senhas aleatórias](https://tdn.totvs.com/download/attachments/696709080/senhaappgerada.png?version=1&modificationDate=1656971351497&api=v2) contendo 16 caracteres e que serão exibidas apenas uma única vez em cada geração. Estas senhas tem como finalidade "substituir" a senha original da conta Google apenas no contexto de um único aplicativo.
 
 >[Clique aqui](https://support.google.com/accounts/answer/185833?hl=pt-BR#zippy=) e siga as instruções disponíveis na página oficial da Google de como criar e usar senhas de aplicativo.
