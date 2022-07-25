@@ -1,4 +1,5 @@
-﻿
+Em construção..
+
 # Aplicativos-menos-seguros
 
 
@@ -7,7 +8,7 @@
 ### Falando de configurações na conta Google
 ***
 
-O objetivo deste guia é orientar ao usuário a realização das configurações para ativar a verificação em duas etapas e como criar e usar senhas de aplicativo na conta Google. Esta configuração possibilitará testar o envio de e-mails através de uma conta gmail, fazendo - se necessária devido a atualização dos protocolos de segurança da Google a qual desabilitou a opção de aplicativos menos seguros oficialmente a partir de 30 de maio de 2022.
+O objetivo deste guia é demonstrar a realização das configurações para ativar a verificação em duas etapas e como criar e usar senhas de aplicativo na conta Google. Esta configuração possibilitará testar o envio de e-mails através de uma conta gmail, fazendo - se necessária devido a atualização dos protocolos de segurança da Google a qual desabilitou a opção de aplicativos menos seguros oficialmente a partir de 30 de maio de 2022.
 
 [Configurações Google](https://github.com/JessicaTechWriter/Aplicativos-menos-seguros/blob/main/Seguran%C3%A7a%20Google.JPG)
 
